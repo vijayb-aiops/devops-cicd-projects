@@ -3,7 +3,7 @@
 ## Overview
 This project implements a CI/CD pipeline for a Flask web application. The application is containerized using Docker, stored in AWS ECR, and deployed to an AWS ECS cluster running on Fargate. GitHub Actions orchestrates the entire build and deployment process.
 
-## Diagram
+## CI/CD Pipeline
 ![CI/CD Pipeline](A_flowchart_diagram_illustrates_the_CICD_pipeline.png)
 
 ## Explanation
